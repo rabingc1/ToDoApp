@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Suresh Adhikari",
+      "address": "Kathmandu, Nepal",
+      "email": "suresh@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Anita Shrestha",
+      "address": "Pokhara, Nepal",
+      "email": "rajesh@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh Thapa",
+      "address": "Biratnagar, Nepal",
+      "email": "rajesh@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Dinesh Gautam",
+      "address": "Dharan, Nepal",
+      "email": "dinesh@gmail.com"
+
+    }
+  ]
+}
